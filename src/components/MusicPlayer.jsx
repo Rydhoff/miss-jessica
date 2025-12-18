@@ -7,7 +7,7 @@ const MusicPlayer = () => {
     const audioRef = useRef(null);
 
     // Your custom music file
-    const musicUrl = '/src/assets/music.mp3';
+    const musicUrl = '/public/music.mp3';
 
     useEffect(() => {
         const audio = audioRef.current;
