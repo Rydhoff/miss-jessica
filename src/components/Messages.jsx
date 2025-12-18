@@ -27,7 +27,7 @@ const studentMessages = [
     },
     {
         name: 'Nayla',
-        message: '-',
+        message: 'Aku mau ucapin terimakasih banyak miss jess atas semuanya, atas ilmu yang diberikan kepada aku, seluruh apresiasi kepada aku, semua semangat dan perhatian yang miss kasih ke aku… terimakasih juga udah hadir jadi salah satu orang yang penting di hidup aku, miss hadir sebagai dosen yang mempunyai peran penting… Maaf miss klo aku belum sepenuhnya mengerti pembelajaran, tetapi karena kesabaran miss aku sudah lebih mengerti dari sebelumnya, love uuuu missss jessss… aku harap kita bisa bertemu lagiiii😞🤍',
     },
     {
         name: 'Bima',
@@ -35,7 +35,7 @@ const studentMessages = [
     },
     {
         name: 'Rifki',
-        message: '-',
+        message: 'Teruntuk Miss Jess aku mau ngucapin banyak² terimakasih buat semua yang uda miss ajarin ke kami,makasih uda sabar didik kami,maaf kalo susah buat ngerti kadang banyak yang ngga masuk kelas tapi miss sabar terus,makasih ya miss sekali lagi,jangan lupa ama kami ya,semoga karir nya miss jess lancar terus,enjoy ya miss di tempat baru nya🫠',
     },
     {
         name: 'Zaidan',
@@ -43,15 +43,15 @@ const studentMessages = [
     },
     {
         name: 'Naura',
-        message: '',
+        message: 'Miss Jess, aku bener bener terimakasih banget sama ilmu yang miss kasih ke aku, sama semua kesabaran miss ajarin aku, aku ga pernah nyangka kita bisa bareng di kelas yang sama cuma satu semester, aku selalu ceritain gimana baiknya miss ngajar di kelas ke papa aku, sebenernya aku kecewa banget miss beneran jadi resign, tapi aku tau ini semua untuk kebaikan miss kedepannya. Miss semoga dilain waktu kita masih dikasih kesempatan buat ketemu lagi ya miss, jangan pernah bosen ketemu sama aku ya miss, aku bener bener speechless kemarin di kelas denger miss beneran jadi pindah. Miss Jess doa dari kami semua terus berjalan bersama Miss, semoga miss jauh lebih bahagia ditempat barunya, jangan lupain kami semua ya miss☺️🩷',
     },
     {
         name: 'Natasya',
-        message: '',
+        message: 'miss natasya mungkin gabisa ngetik longtext tapi doa natasya selalu menyertai miss,bahagia terus ya miss',
     },
     {
         name: 'Aziz',
-        message: '',
+        message: 'Semoga sehat selalu dan diberikan kemudahan dalam segala urusan ^_^',
     },
     {
         name: 'Towi',
