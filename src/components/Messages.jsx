@@ -27,7 +27,7 @@ const studentMessages = [
     },
     {
         name: 'Nayla',
-        message: 'Aku mau ucapin terimakasih banyak miss sudah hadir menjadi salah satu orang yang ada di hidup aku, apa lagi hadir sebagai orng yang sangat penting yaitu sebagai dosen aku. makasih atas ilmu dan kesabaran yang miss berikan…\n\n Aku sedih bgt sebenernya kmrin tapi aku cuma bisa diem.. sedih  nanti miss ga chat aku pagi-pagi dan setiba-tiba biasanyaaaaa😞😞seneng bgtt bisa cerita-cerita dan bercanda sama miss…\n\n miss plisss jangan lupain aku❤️\n\nMakasih banyak miss jesss, love uuuuu moreeeeeeeeeee (maafin fauzi ya miss, saya tau fauzi selalu bikin miss marah🫰🏻🫰🏻tapi makasihhh banyakkk fauzi jadi sadar setelah miss marahin🫰🏻t-tapi…nnti siapa yg marahin dia lagi miss😞😞😞 \n\nAku harap kita bisa bertemu lagi misss….',
+        message: '-',
     },
     {
         name: 'Bima',
