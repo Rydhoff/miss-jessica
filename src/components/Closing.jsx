@@ -42,11 +42,14 @@ const Closing = () => {
                         <span className="text-2xl text-gold">✦</span>
                     </div>
 
+
                     {/* Final Message */}
                     <p className="text-xl lg:text-2xl font-heading font-semibold text-sage-dark">
                         Terima kasih untuk segalanya, Miss Jessica.
                     </p>
                 </div>
+
+                <img src="/photo-closing.jpeg" alt="Foto Bersama Miss Jessica" className="mb-10 w-full h-full object-cover object-center rounded-lg border-6 border-sage-light" />
 
                 {/* Signature */}
                 <div ref={signatureRef} className="fade-in delay-3 text-center py-10 lg:py-12 border-t border-gray-200 max-w-md mx-auto">

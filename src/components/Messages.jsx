@@ -39,7 +39,7 @@ const studentMessages = [
     },
     {
         name: 'Zaidan',
-        message: '',
+        message: 'Terima kasih banyak, Miss Jessica. Semoga sukses dan bahagia di tempat baru.',
     },
     {
         name: 'Naura',
@@ -55,7 +55,7 @@ const studentMessages = [
     },
     {
         name: 'Towi',
-        message: '',
+        message: 'Terimakasih, sehat selalu',
     },
 ];
 
