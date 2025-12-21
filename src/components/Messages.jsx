@@ -43,7 +43,7 @@ const studentMessages = [
     },
     {
         name: 'Naura',
-        message: 'Miss Jess, aku bener bener terimakasih banget sama ilmu yang miss kasih ke aku, sama semua kesabaran miss ajarin aku, aku ga pernah nyangka kita bisa bareng di kelas yang sama cuma satu semester, aku selalu ceritain gimana baiknya miss ngajar di kelas ke papa aku, sebenernya aku kecewa banget miss beneran jadi resign, tapi aku tau ini semua untuk kebaikan miss kedepannya. Miss semoga dilain waktu kita masih dikasih kesempatan buat ketemu lagi ya miss, jangan pernah bosen ketemu sama aku ya miss, aku bener bener speechless kemarin di kelas denger miss beneran jadi pindah. Miss Jess doa dari kami semua terus berjalan bersama Miss, semoga miss jauh lebih bahagia ditempat barunya, jangan lupain kami semua ya miss☺️🩷',
+        message: 'Miss Jess, aku bener bener terimakasih banget sama ilmu yang miss kasih ke aku, sama semua kesabaran miss ajarin aku, aku ga pernah nyangka kita bisa bareng di kelas yang sama cuma satu semester, aku selalu ceritain gimana baiknya miss ngajar di kelas ke papa aku, sebenernya aku kecewa banget miss beneran jadi resign, tapi aku tau ini semua untuk kebaikan miss kedepannya. Miss semoga dilain waktu kita masih dikasih kesempatan buat ketemu lagi ya miss, jangan pernah bosen ketemu sama aku ya miss, aku bener bener speechless kemarin di kelas denger miss beneran jadi pindah. Miss Jess doa dari kami semua terus berjalan bersama Miss, semoga miss jauh lebih bahagia ditempat barunya, jangan lupain kami semua ya miss☺️🤍',
     },
     {
         name: 'Natasya',
